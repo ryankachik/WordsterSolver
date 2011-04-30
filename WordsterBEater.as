@@ -17,7 +17,8 @@ package {
 		private var _holder:Sprite;
 		public function WordsterBEater()
 		{
-		//pushing to github
+		//push
+		//edit
 			dict = new Dictionary();
 			txtfmt = new TextFormat("Helvetica", 16, 0x000000);
 			_input = createTextField("aaaaaaaa", 85);
